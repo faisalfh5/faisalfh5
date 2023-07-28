@@ -41,5 +41,5 @@
  	<a href="https://github.com/faisalfh5"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
  	<a href="https://www.linkedin.com/in/faisal-hussain-334a9719a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
  	<a href="https://www.facebook.com/profile.php?id=100013713463540&mibextid=ZbWKwL"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
- 	<a href="https://twitter.com/FaisalH16084387"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+ 	<a href="https://twitter.com/Yousuf_Kalim?s=20"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
  </p>
