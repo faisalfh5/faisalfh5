@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Solidity Official Documentation (Open Source Project)](https://github.com/solidity-docs/ur-urdu)
 
-- 🌱 I’m currently learning **DevOps, AWS, Hedera Subgraph**
+- 🌱 I’m currently learning **Web3, Blockchain and Hedera Hashgraph**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faisalfh5](https://github.com/faisalfh5)
 
-- 💬 Ask me anything about **blockchain and Artificial Intelligence**
+- 💬 Ask me anything about **Web3 and Blockcahin**
 
 - 📫 How to reach me **faisalh550@gmail.com**
 
@@ -41,5 +41,5 @@
  	<a href="https://github.com/faisalfh5"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
  	<a href="https://www.linkedin.com/in/faisal-hussain-334a9719a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
  	<a href="https://www.facebook.com/profile.php?id=100013713463540&mibextid=ZbWKwL"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
- 	<a href="https://twitter.com/Yousuf_Kalim?s=20"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+ 	<a href="https://twitter.com/FaisalH16084387"><img src="https://icons8.com/icon/eeQY_dRSUIMV/twitter-circled" alt="Twitter"/></a>
  </p>
