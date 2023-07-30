@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Hussain</h1>
-<h3 align="center">A full stack blockchain developer and enthusiast from Pakistan</h3>
+<h3 align="center">A full stack developer and blockchain enthusiast from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalfh5&label=Profile%20views&color=0e75b6&style=flat" alt="faisalfh5" /> </p>
 
