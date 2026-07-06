@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faisal Hussain</h1>
-<h3 align="center">A full stack developer and blockchain enthusiast from Pakistan</h3>
+<h3 align="center">A full stack Software Egnineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalfh5&label=Profile%20views&color=0e75b6&style=flat" alt="faisalfh5" /> </p>
 
 <img align="right" src="https://github.com/faisalfh5/faisalfh5/blob/main/Images/img1.gif" alt="blockchain" width="400">
 - 🔭 I’m currently working on [Solidity Official Documentation (Open Source Project)](https://github.com/solidity-docs/ur-urdu)
 
-- 🌱 I’m currently learning **Web3, Blockchain and Hedera Hashgraph**
+- 🌱 I’m currently learning **Web3 and Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faisalfh5](https://github.com/faisalfh5)
 
-- 💬 Ask me anything about **Web3 and Blockcahin**
+- 💬 Ask me anything about **Web3 and AI**
 
 - 📫 How to reach me **faisalh550@gmail.com**
 
